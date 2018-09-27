@@ -7,7 +7,7 @@ module.exports = function getZerosCount(number, base) {
                         163,167,173,179,181,191,
                         193,197,199,211,223,227,
                         229,233,239,241,251];
-    let arrDeliv = [];
+    let arrDeliv =[];
     let sumMax = Number.MAX_VALUE;
     let sum = 0;
 
